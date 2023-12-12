@@ -26,10 +26,10 @@ const Contact = () => {
                                 placeholder="Name"/> <br/>
                             <input className="w-full text-white p-2 border-2 border-pink-600 bg-gray-700 rounded-lg ease-in duration-500 mt-4" type="email"
                                 placeholder="Email"/> <br/>
-                            <textarea className="w-full text-white p-2 placeholder:-translate-y-0 border-2 border-cyan-500 bg-gray-700 rounded-lg ease-in duration-500 mt-4" type="text"
+                            <textarea className="w-full text-white p-2 placeholder:-translate-y-0 border-2 border-pink-600 bg-gray-700 rounded-lg ease-in duration-500 mt-4" type="text"
                                 rows="10" cols="5" placeholder="Your message"></textarea> <br/>
                             <button id="txtBod6"
-                                className="w-full p-2 text-lg border-2 border-pink-600 bg-pink-600 rounded-lg ease-in duration-500 mt-4">Send message</button>
+                                className="w-full p-2 text-lg border-2 border-pink-800 bg-pink-600 rounded-lg ease-in duration-500 mt-4">Send message</button>
                         </form>
                     </div>
                 </div>
