@@ -28,7 +28,7 @@ const Home = () => {
                 </ul>
             </div>
             <div className="apps bg-sky-600 px-6 py-4 items-center text-white lg:flex lg:px-24 lg:space-x-48">
-                <h1 className="text-lg lg:text-2xl">Download Our Mobile app & Get Fast Banking Service</h1>
+                <h1 className="text-lg lg:text-2xl">Download Our Mobile app & Get Swift, Efficient service just for you.</h1>
                 <ul className="flex text-sky-600 space-x-4">
                     <Link to="#" className="flex p-2 items-center border-2 bg-white rounded-md hover:text-sky-600 ease-in duration-500"><BsApple className="text-lg mr-2 my-auto hover:text-sky-600 ease-in duration-500 lg:text-xl lg:mr-4"/><b>App Store</b></Link>
                     <Link to="#" className="flex p-2 items-center border-2 bg-white rounded-md hover:text-sky-600 ease-in duration-500"><BsAndroid2 className="text-lg mr-2 my-auto hover:text-sky-600 ease-in duration-500 lg:text-xl lg:mr-4"/><b>Play Store</b></Link>
