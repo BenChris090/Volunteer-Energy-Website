@@ -52,7 +52,7 @@ const Home = () => {
                         ensuring our merchandise reflects the highest quality and sets the standard for the industry.</p>
                     </div>
                     <div className="p-4 space-y-2 lg:px-4 lg:h-[25rem] lg:w-1/3 lg:max-w-52">
-                        <img src={ HOME_PIC3 } className=" h-48 mx-auto lg:h-52" alt="Dog Pic" />
+                        <img src={ HOME_PIC3 } className=" h-48 lg:mx-auto lg:h-52" alt="Dog Pic" />
                         <h2 className="text-lg lg:text-xl"><b>Client-Centric Approach</b></h2>
                         <p className="text-justify">Discover personalized solutions with convenient access to crucial information and secure transactions, 
                         placing your needs at the forefront. Your satisfaction is our dedication, wherever your merchandise ventures lead</p>
