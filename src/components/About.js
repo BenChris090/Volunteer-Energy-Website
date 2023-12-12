@@ -49,28 +49,28 @@ const About = () => {
             </div>
             <div className="body text-left px-6 lg:px-24 py-8 space-y-4 lg:space-x-4 lg:space-y-0 lg:flex">
                 <div className="w-full space-y-2 shadow-xl rounded-xl border-2 border-black lg:w-1/4 py-10 px-4 hover:scale-105">
-                    <img src={INDEXP} alt="debit_card" className="w-1/4"/>
+                    <img src={INDEXP} alt="INDUSTRY EXPERTISE" className="w-full"/>
                     <h2 className="text-xl font-semibold">Industry Expertise</h2>
-                    <p>Our seasoned professionals bring extensive experience to the table, 
+                    <p className="text-justify">Our seasoned professionals bring extensive experience to the table, 
                         ensuring strategic insights and effective solutions in both oil 
                         and gas consulting and the general merchandise landscape..</p>
                 </div>
                 <div className="w-full space-y-2 shadow-xl rounded-xl border-2 border-black lg:w-1/4 py-10 px-4 hover:scale-105">
-                    <img src={QM} alt="credit_card" className="w-1/4"/>
+                    <img src={QM} alt="QUALITY MERCHANDISE" className="w-full"/>
                     <h2 className="text-xl font-semibold">Quality Merchandise</h2>
-                    <p>At Volunteer Energy, we pride ourselves on curating a diverse range of high-quality general merchandise. 
+                    <p className="text-justify">At Volunteer Energy, we pride ourselves on curating a diverse range of high-quality general merchandise. 
                         Our commitment to excellence extends to every product we offer</p>
                 </div>
                 <div className="w-full space-y-2 shadow-xl rounded-xl border-2 border-black lg:w-1/4 py-10 px-4 hover:scale-105">
-                    <img src={TYPEWRITER} alt="prepaid_card" className="w-1/4"/>
+                    <img src={TYPEWRITER} alt="RELIABLE CUSTOMER SERVICE" className="w-full"/>
                     <h2 className="text-xl font-semibold">Reliable customer service</h2>
-                    <p>We are synonymous with innovation, building excellence, 
+                    <p className="text-justify">We are synonymous with innovation, building excellence, 
                         superior financial performance and creating role models for society.</p>
                 </div>
                 <div className="w-full space-y-2 shadow-xl rounded-xl border-2 border-black lg:w-1/4 py-10 px-4 hover:scale-105">
-                    <img src={CCA} alt="mobile_wallet" className="w-1/4"/>
+                    <img src={CCA} alt="CLIENT-CENTRIC APPROACH" className="w-full"/>
                     <h2 className="text-xl font-semibold">Client-Centric Approach</h2>
-                    <p>We don't just do business; we build relationships. Our client-centric approach 
+                    <p className="text-justify">We don't just do business; we build relationships. Our client-centric approach 
                         involves understanding the unique needs of our clients and delivering tailored solutions that contribute to their success.</p>
                 </div>
             </div>

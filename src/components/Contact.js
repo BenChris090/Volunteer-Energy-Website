@@ -19,7 +19,7 @@ const Contact = () => {
                         <Link to="https://linkedin.com"><FaLinkedin className="text-2xl text-black ml-4 lg:ml-20 hover:text-pink-600 ease-in duration-500"/></Link>
                         <Link to="https://instagram.com"><FaInstagram className="text-2xl text-black ml-4 lg:ml-20 hover:text-pink-600 ease-in duration-500"/></Link>
                     </p>
-                    <p class="text-lg text-cyan-500 text-justify">+2349115078310, +2348037551558</p>
+                    <p class="text-lg text-cyan-500 text-justify"><Link to="">onyedikachimike87@gmail.com</Link>, +2348037551558</p>
                     <div class="py-2 lg:hidden">
                         <form action="">
                             <input className="w-full text-white p-2 border-2 border-pink-600 bg-gray-700 rounded-lg ease-in duration-500 mt-4" type="text"
