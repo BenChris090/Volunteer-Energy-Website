@@ -15,8 +15,8 @@ const About = () => {
             
             <div className="header text-white px-6 lg:px-24 py-10 bg-[url('./images/bg4.jpg')] bg-no-repeat bg-cover bg-center space-y-2">
                 <h1 className="text-2xl lg:text-4xl"><b>About Volunteer Energy</b></h1>
-                <p className="text-xl text-justify lg:max-w-xl">At Volunteer Energy, we illuminate paths to success in the energy and general merchandise sectors. 
-                Established on the pillars of innovation, sustainability, and client-centricity, Volunteer Energy is your comprehensive partner in oil and gas consulting 
+                <p className="text-xl text-justify lg:max-w-xl">At Volunteer Energy Ltd., we illuminate paths to success in the energy and general merchandise sectors. 
+                Established on the pillars of innovation, sustainability, and client-centricity, Volunteer Energy Ltd. is your comprehensive partner in oil and gas consulting 
                 and high-quality general merchandise services.</p>
                 <ul className="flex text-white items-center lg:pt-5 lg:px-2">
                     <FaAt className="text-3xl lg:text-4xl hover:text-pink-600 ease-in duration-500"/>
@@ -38,7 +38,7 @@ const About = () => {
                     <li className="flex text-lg px-2 text-gray-700 font-medium items-center"><FaStar className="text-pink-600 mr-2"></FaStar> Client-Centric Approach</li>
                 </ul>
                 <h1 className="text-2xl lg:text-3xl p-2"><b>Our Commitment</b></h1>
-                <p className="text-lg text-justify lg:text-xl lg:text-justify text-gray-700 font-medium py-2 px-2">Volunteer Energy is more than a business; 
+                <p className="text-lg text-justify lg:text-xl lg:text-justify text-gray-700 font-medium py-2 px-2">Volunteer Energy Ltd. is more than a business; 
                 it's a commitment to excellence, sustainability, and positive impact across the energy and general merchandise sectors. We are dedicated to creating a brighter 
                 and more sustainable future for our clients, partners, and communities..</p>   
             </div>
@@ -58,7 +58,7 @@ const About = () => {
                 <div className="w-full space-y-2 shadow-xl rounded-xl border-2 border-black lg:w-1/4 py-10 px-4 hover:scale-105">
                     <img src={QM} alt="QUALITY MERCHANDISE" className="w-full"/>
                     <h2 className="text-xl font-semibold">Quality Merchandise</h2>
-                    <p className="text-justify">At Volunteer Energy, we pride ourselves on curating a diverse range of high-quality general merchandise. 
+                    <p className="text-justify">At Volunteer Energy Ltd., we pride ourselves on curating a diverse range of high-quality general merchandise. 
                         Our commitment to excellence extends to every product we offer</p>
                 </div>
                 <div className="w-full space-y-2 shadow-xl rounded-xl border-2 border-black lg:w-1/4 py-10 px-4 hover:scale-105">

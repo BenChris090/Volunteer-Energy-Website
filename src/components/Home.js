@@ -39,20 +39,20 @@ const Home = () => {
                 <p className="text-lg text-center text-sky-600 md:font-semibold lg:text-2xl">World Leading Energy Institution</p>
                 <section className="px-4 py-10 justify-center items-center space-y-4 lg:flex lg:space-y-0 lg:space-x-4 lg:px-24">
                     <div className="p-4 space-y-2 lg:px-4 lg:h-[25rem] lg:w-1/3 lg:max-w-52">
-                        <img src={ HOME_PIC1 } className=" w-full lg:mx-auto lg:h-52" alt="Dog Pic" />
+                        <img src={ HOME_PIC1 } className="w-full lg:mx-auto lg:h-52" alt="Dog Pic" />
                         <h2 className="text-lg lg:text-xl"><b>Consulting Expertise</b></h2>
                         <p className="text-justify">Discover tailored consulting expertise packages with complimentary 
                         and premium add-ons for complete customization. Download, complete, 
                         and submit your application at our office to get started</p>
                     </div>
                     <div className="p-4 space-y-2 lg:px-4 lg:h-[25rem] lg:w-1/3 lg:max-w-52">
-                        <img src={ HOME_PIC2 } className=" w-full lg:mx-auto lg:h-52" alt="Dog Pic" />
+                        <img src={ HOME_PIC2 } className="w-full lg:mx-auto lg:h-52" alt="Dog Pic" />
                         <h2 className="text-lg lg:text-xl"><b>General Merchandise Services</b></h2>
                         <p className="text-justify">We embody a commitment to excellence, 
                         ensuring our merchandise reflects the highest quality and sets the standard for the industry.</p>
                     </div>
                     <div className="p-4 space-y-2 lg:px-4 lg:h-[25rem] lg:w-1/3 lg:max-w-52">
-                        <img src={ HOME_PIC3 } className=" w-full lg:mx-auto lg:h-52" alt="Dog Pic" />
+                        <img src={ HOME_PIC3 } className="w-full lg:mx-auto lg:h-52" alt="Dog Pic" />
                         <h2 className="text-lg lg:text-xl"><b>Client-Centric Approach</b></h2>
                         <p className="text-justify">Discover personalized solutions with convenient access to crucial information and secure transactions, 
                         placing your needs at the forefront. Your satisfaction is our dedication, wherever your merchandise ventures lead</p>
